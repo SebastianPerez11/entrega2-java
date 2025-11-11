@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mariana",
+        "apellido": "Gómez",
+        "email": "mariana.gomez@example.com",
+        "telefono": "+54 9 351 5551234",
+        "dni": 39555444
+    },
+    {
+        "id": 2,
+        "nombre": "Lucas",
+        "apellido": "Fernández",
+        "email": "lucas.fernandez@example.com",
+        "telefono": "+54 9 11 66667777",
+        "dni": 38444777
+    }
+]

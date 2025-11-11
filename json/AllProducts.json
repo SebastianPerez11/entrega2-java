@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nombre": "Auriculares Bluetooth JBL",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido",
+        "precio": 25999.99,
+        "stock": 15,
+        "categoria": {
+            "id": 1,
+            "nombre": "Audio"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Notebook HP Pavilion 15",
+        "descripcion": "Notebook con procesador Intel i5, 8GB RAM y SSD 512GB",
+        "precio": 499999.99,
+        "stock": 7,
+        "categoria": {
+            "id": 2,
+            "nombre": "Computadoras"
+        }
+    }
+]
